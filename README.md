@@ -2,7 +2,7 @@
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools, etc. For more, please visit: [Tap4 AI](https://tap4.ai)
 
 # How to get your first users for startup at the website list
-Here is the website list for submit your product to get users. Please visit []
+Here is the website list for submit your product to get users. Please visit [StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
 ## GPT-4o in OpenAI
 The amazing new feature released in 2024.05.14. GPT-4o is coming, let's chat with her. Please [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 
