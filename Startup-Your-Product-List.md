@@ -67,10 +67,8 @@ The Collection for the AI tools all over the world. | Collect free ChatGPT mirro
 | 16  | AI Business Tools              | [https://aibusinesstools.com/](https://aibusinesstools.com/)                                                         | Free     | Business            |
 | 14  | 100AI Tools                    | [https://100aitools.com/](https://100aitools.com/)                                                                   | Free     | AI                  |
 | 12  | Better-Made                    | [http://better-made.io/](http://better-made.io/)                                                                     | $2.50    |                     |
-| 12  | ai.tools                       | [https://ai.tools/](https://ai.tools/)   
-   | Free     | AI                  |
-| 7   | Tap4 AI                    | [https://tap4.ai/](https://tap4.ai/)   
-| Free     | AI                  |
+| 12  | ai.tools                       | [https://ai.tools/](https://ai.tools/)   | Free     | AI                  |
+| 7   | Tap4 AI                    | [https://tap4.ai/](https://tap4.ai/)   | Free     | AI                  |
 | 11  | AItoolsmall.com                | [https://aitoolsmall.com/](https://aitoolsmall.com/)                                                                 | $0.99    | AI, Productivity    |
 | 9   | AiProjectTools                 | [https://aiprojecttools.com/](https://aiprojecttools.com/)                                                           | Free     | AI                  |
 | 7   | AItoolsKit                     | [https://aitoolskit.com/](https://aitoolskit.com/)                                                                   | Free     | AI                  |
